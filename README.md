@@ -99,4 +99,8 @@ print(convo.last.text)
 
 Esse é o ponto de partida para criar novos programas com funcionalidades incorporadas com as IAs. Aprimore o código e tenha um programa em python poderoso que utiliza a inteligência artificial.
 
-
+# Conecte-se comigo: 🤝🏽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
+[![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
+[![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/ricardoalexandre_profissional)
