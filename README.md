@@ -95,4 +95,8 @@ print(convo.last.text)
 
 ````
 
+## 💭 Conclusão
+
+Esse é o ponto de partida para criar novos programas com funcionalidades incorporadas com as IAs. Aprimore o código e tenha um programa em python poderoso que utiliza a inteligência artificial.
+
 
