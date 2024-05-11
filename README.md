@@ -27,7 +27,7 @@ Inicia a conversa: Cria um objeto de conversa com o histórico predefinido.
 5. Enviar uma mensagem: Envia uma nova mensagem para o modelo.
 Imprime a resposta: Mostra a resposta do modelo.
 
-## Esse é um exemplo de código que pode ser inicialmente gerado pelo Google IA Studio e depois alterado.
+## 🐍 Esse é um exemplo de código que pode ser inicialmente gerado pelo Google IA Studio e depois alterado.
 ````markdown
 """
 Este script demonstra como usar o Google Gemini para analisar uma imagem.
@@ -94,10 +94,13 @@ convo.send_message("Há algo mais que você pode me dizer sobre essa imagem?")
 print(convo.last.text)
 
 ````
+## 📸 Imagem do código em execução
+
+![Texto alternativo](https://github.com/ralexandrecode/api-gemini/blob/main/api1.png)
 
 ## 💭 Conclusão
 
-Esse é o ponto de partida para criar novos programas com funcionalidades incorporadas com as IAs. Aprimore o código e tenha um programa em python poderoso que utiliza a inteligência artificial.
+Esse é o ponto de partida para criar novos programas com funcionalidades incorporadas com as IAs. Aprimore o código e tenha um programa em python poderoso que utiliza a inteligência artificial para interegir e resolver problemas.
 
 # Conecte-se comigo: 🤝🏽
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
